@@ -2,27 +2,27 @@
   "produts": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "(top) Whey Protein",
+      "price": 76.89
     },
     {
       "id": 2,
-      "name": "Notebook MacBook",
-      "price": 12000.89
+      "name": "ISO (integral Medica) - 907g",
+      "price": 167.99
     },
     {
       "id": 3,
-      "name": "Samsung S20+",
-      "price": 5000.89
+      "name": "BSN Syntra-6 1361g",
+      "price": 180.19
     },
     {
-      "name": "Veio do Formulário",
-      "price": "9.99",
+      "name": "Muscle Tech Nitro 910g",
+      "price": "90.50",
       "id": 4
     },
     {
-      "name": "Lapis Preto",
-      "price": "3.50",
+      "name": "Glutamina - Universal",
+      "price": "100.00",
       "id": 5
     }
   ]
