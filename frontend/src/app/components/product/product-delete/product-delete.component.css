@@ -4,7 +4,6 @@ form{
     margin-top: 20px;
 }
 button{
-    margin-top:20px;
-    margin-right: 15px;
+    margin: 20px 15px 0px 0px;
     background-color: rgb(240, 225, 14);
 }

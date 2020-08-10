@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "(top) Whey Protein",
-      "price": 76.89
+      "price": "86.89"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
     },
     {
       "name": "Glutamina - Universal",
-      "price": "100.00",
+      "price": "105.00",
       "id": 5
     }
   ]
